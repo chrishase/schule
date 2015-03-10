@@ -1,0 +1,5 @@
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\P R Rechner\P R Rechner\bin\Debug\P R Rechner.exe
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\P R Rechner\P R Rechner\bin\Debug\P R Rechner.pdb
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\P R Rechner\P R Rechner\obj\x86\Debug\ResolveAssemblyReference.cache
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\P R Rechner\P R Rechner\obj\x86\Debug\P R Rechner.exe
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\P R Rechner\P R Rechner\obj\x86\Debug\P R Rechner.pdb

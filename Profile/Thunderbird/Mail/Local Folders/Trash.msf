@@ -1,0 +1,45 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (B8=bccList)(B9=charSetOverride)(BA=applyToFlaggedMessages)
+  (BB=sortType)(BC=sortOrder)(BD=viewFlags)(BE=viewType)(BF=columnStates)
+  (C0=MRUTime)(C1=sortColumns)(80=ns:msg:db:row:scope:msgs:all)
+  (81=subject)(82=sender)(83=message-id)(84=references)(85=recipients)
+  (86=date)(87=size)(88=flags)(89=priority)(8A=label)(8B=statusOfset)
+  (8C=numLines)(8D=ccList)(8E=msgThreadId)(8F=threadId)(90=threadFlags)
+  (91=threadNewestMsgDate)(92=children)(93=unreadChildren)
+  (94=threadSubject)(95=numRefs)(96=msgCharSet)
+  (97=ns:msg:db:table:kind:msgs)(98=ns:msg:db:table:kind:thread)
+  (99=ns:msg:db:table:kind:allthreads)
+  (9A=ns:msg:db:row:scope:threads:all)(9B=threadParent)(9C=threadRoot)
+  (9D=msgOffset)(9E=offlineMsgSize)
+  (9F=ns:msg:db:row:scope:dbfolderinfo:all)
+  (A0=ns:msg:db:table:kind:dbfolderinfo)(A1=numMsgs)(A2=numNewMsgs)
+  (A3=folderSize)(A4=expungedBytes)(A5=folderDate)(A6=highWaterKey)
+  (A7=mailboxName)(A8=UIDValidity)(A9=totPendingMsgs)
+  (AA=unreadPendingMsgs)(AB=expiredMark)(AC=version)
+  (AD=fixedBadRefThreading)(AE=folderName)(AF=charSet)(B0=retainBy)
+  (B1=daysToKeepHdrs)(B2=numHdrsToKeep)(B3=daysToKeepBodies)
+  (B4=keepUnreadOnly)(B5=useServerDefaults)(B6=cleanupBodies)
+  (B7=LastPurgeTime)>
+
+<(80=1)(81=0)(82=49293c40)(83=104)(84=Papierkorb)(8B
+    =Thu Feb 11 14:21:15 2010)(87=1265894475)(88=12)(89=)(8A
+    ={"threadCol":{"visible":true},"attachmentCol":{"visible":true},"flaggedCo\
+l":{"visible":true},"subjectCol":{"visible":true},"unreadButtonColHeader":{"vi\
+sible":true},"senderCol":{"visible":true},"recipientCol":{"visible":false},"ju\
+nkStatusCol":{"visible":true},"dateCol":{"visible":true},"locationCol":{"visib\
+le":false}})>
+{1:^9F {(k^A0:c)(s=9u)} 
+  [1(^AC=1)(^AD=1)(^A3=0)(^A5^82)(^88^83)(^AE^84)(^B7^8B)(^C0^87)(^BB=12)
+    (^BC=1)(^BD=0)(^BE=0)(^C1=)(^BF^8A)]}
+
+@$${3{@
+<(8C=1265894476)>[1:^9F(^C0^8C)]
+@$$}3}@
+
+@$${4{@
+<(8D=Thu Feb 11 14:21:16 2010)>[1:^9F(^B7^8D)]
+@$$}4}@
+
+@$${5{@
+@$$}5}@

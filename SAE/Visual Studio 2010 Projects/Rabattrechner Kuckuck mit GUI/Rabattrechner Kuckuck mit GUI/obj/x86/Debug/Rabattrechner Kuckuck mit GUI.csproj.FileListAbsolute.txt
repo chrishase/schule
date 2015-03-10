@@ -1,0 +1,9 @@
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\Rabattrechner Kuckuck mit GUI\Rabattrechner Kuckuck mit GUI\obj\x86\Debug\ResolveAssemblyReference.cache
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\Rabattrechner Kuckuck mit GUI\Rabattrechner Kuckuck mit GUI\obj\x86\Debug\Rabattrechner_Kuckuck_mit_GUI.Form1.resources
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\Rabattrechner Kuckuck mit GUI\Rabattrechner Kuckuck mit GUI\obj\x86\Debug\Rabattrechner_Kuckuck_mit_GUI.Properties.Resources.resources
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\Rabattrechner Kuckuck mit GUI\Rabattrechner Kuckuck mit GUI\obj\x86\Debug\GenerateResource.read.1.tlog
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\Rabattrechner Kuckuck mit GUI\Rabattrechner Kuckuck mit GUI\obj\x86\Debug\GenerateResource.write.1.tlog
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\Rabattrechner Kuckuck mit GUI\Rabattrechner Kuckuck mit GUI\bin\Debug\Rabattrechner Kuckuck mit GUI.exe
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\Rabattrechner Kuckuck mit GUI\Rabattrechner Kuckuck mit GUI\bin\Debug\Rabattrechner Kuckuck mit GUI.pdb
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\Rabattrechner Kuckuck mit GUI\Rabattrechner Kuckuck mit GUI\obj\x86\Debug\Rabattrechner Kuckuck mit GUI.exe
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\Rabattrechner Kuckuck mit GUI\Rabattrechner Kuckuck mit GUI\obj\x86\Debug\Rabattrechner Kuckuck mit GUI.pdb

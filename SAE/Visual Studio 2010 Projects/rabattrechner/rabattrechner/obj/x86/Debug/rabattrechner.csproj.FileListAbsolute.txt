@@ -1,0 +1,5 @@
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\rabattrechner\rabattrechner\obj\x86\Debug\ResolveAssemblyReference.cache
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\rabattrechner\rabattrechner\bin\Debug\rabattrechner.exe
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\rabattrechner\rabattrechner\bin\Debug\rabattrechner.pdb
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\rabattrechner\rabattrechner\obj\x86\Debug\rabattrechner.exe
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\rabattrechner\rabattrechner\obj\x86\Debug\rabattrechner.pdb

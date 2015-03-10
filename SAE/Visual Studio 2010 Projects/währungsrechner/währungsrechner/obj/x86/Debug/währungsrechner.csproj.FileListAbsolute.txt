@@ -1,0 +1,5 @@
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\währungsrechner\währungsrechner\bin\Debug\währungsrechner.exe
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\währungsrechner\währungsrechner\bin\Debug\währungsrechner.pdb
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\währungsrechner\währungsrechner\obj\x86\Debug\ResolveAssemblyReference.cache
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\währungsrechner\währungsrechner\obj\x86\Debug\währungsrechner.exe
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\währungsrechner\währungsrechner\obj\x86\Debug\währungsrechner.pdb

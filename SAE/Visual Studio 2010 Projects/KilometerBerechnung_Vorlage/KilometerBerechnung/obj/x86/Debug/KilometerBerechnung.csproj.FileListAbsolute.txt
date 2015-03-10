@@ -1,0 +1,29 @@
+c:\users\lehrer\documents\visual studio 2010\Projects\KilometerBerechnung\KilometerBerechnung\bin\Debug\KilometerBerechnung.exe
+c:\users\lehrer\documents\visual studio 2010\Projects\KilometerBerechnung\KilometerBerechnung\bin\Debug\KilometerBerechnung.pdb
+c:\users\lehrer\documents\visual studio 2010\Projects\KilometerBerechnung\KilometerBerechnung\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lehrer\documents\visual studio 2010\Projects\KilometerBerechnung\KilometerBerechnung\obj\x86\Debug\KilometerBerechnung.Form1.resources
+c:\users\lehrer\documents\visual studio 2010\Projects\KilometerBerechnung\KilometerBerechnung\obj\x86\Debug\KilometerBerechnung.Properties.Resources.resources
+c:\users\lehrer\documents\visual studio 2010\Projects\KilometerBerechnung\KilometerBerechnung\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\lehrer\documents\visual studio 2010\Projects\KilometerBerechnung\KilometerBerechnung\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\lehrer\documents\visual studio 2010\Projects\KilometerBerechnung\KilometerBerechnung\obj\x86\Debug\KilometerBerechnung.exe
+c:\users\lehrer\documents\visual studio 2010\Projects\KilometerBerechnung\KilometerBerechnung\obj\x86\Debug\KilometerBerechnung.pdb
+Z:\_Material\Berufsschule\E1FS4 Hillebrand\13-04-30\KilometerBerechnung\KilometerBerechnung\obj\x86\Debug\KilometerBerechnung.exe
+Z:\_Material\Berufsschule\E1FS4 Hillebrand\13-04-30\KilometerBerechnung\KilometerBerechnung\obj\x86\Debug\KilometerBerechnung.pdb
+Z:\_Material\Berufsschule\E1FS4 Hillebrand\13-04-30\KilometerBerechnung\KilometerBerechnung\bin\Debug\KilometerBerechnung.exe
+Z:\_Material\Berufsschule\E1FS4 Hillebrand\13-04-30\KilometerBerechnung\KilometerBerechnung\bin\Debug\KilometerBerechnung.pdb
+Z:\_Material\Berufsschule\E1FS4 Hillebrand\13-04-30\KilometerBerechnung\KilometerBerechnung\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\_Material\Berufsschule\E1FS4 Hillebrand\13-04-30\KilometerBerechnung\KilometerBerechnung\obj\x86\Debug\KilometerBerechnung.Form1.resources
+Z:\_Material\Berufsschule\E1FS4 Hillebrand\13-04-30\KilometerBerechnung\KilometerBerechnung\obj\x86\Debug\KilometerBerechnung.Properties.Resources.resources
+Z:\_Material\Berufsschule\E1FS4 Hillebrand\13-04-30\KilometerBerechnung\KilometerBerechnung\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\_Material\Berufsschule\E1FS4 Hillebrand\13-04-30\KilometerBerechnung\KilometerBerechnung\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\SAE - E1FS4\2014-03-11\KilometerBerechnung_Vorlage\KilometerBerechnung\obj\x86\Debug\KilometerBerechnung.exe
+Z:\SAE - E1FS4\2014-03-11\KilometerBerechnung_Vorlage\KilometerBerechnung\obj\x86\Debug\KilometerBerechnung.pdb
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\KilometerBerechnung_Vorlage\KilometerBerechnung\obj\x86\Debug\KilometerBerechnung.exe
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\KilometerBerechnung_Vorlage\KilometerBerechnung\obj\x86\Debug\KilometerBerechnung.pdb
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\KilometerBerechnung_Vorlage\KilometerBerechnung\bin\Debug\KilometerBerechnung.exe
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\KilometerBerechnung_Vorlage\KilometerBerechnung\bin\Debug\KilometerBerechnung.pdb
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\KilometerBerechnung_Vorlage\KilometerBerechnung\obj\x86\Debug\ResolveAssemblyReference.cache
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\KilometerBerechnung_Vorlage\KilometerBerechnung\obj\x86\Debug\KilometerBerechnung.Form1.resources
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\KilometerBerechnung_Vorlage\KilometerBerechnung\obj\x86\Debug\KilometerBerechnung.Properties.Resources.resources
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\KilometerBerechnung_Vorlage\KilometerBerechnung\obj\x86\Debug\GenerateResource.read.1.tlog
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\KilometerBerechnung_Vorlage\KilometerBerechnung\obj\x86\Debug\GenerateResource.write.1.tlog

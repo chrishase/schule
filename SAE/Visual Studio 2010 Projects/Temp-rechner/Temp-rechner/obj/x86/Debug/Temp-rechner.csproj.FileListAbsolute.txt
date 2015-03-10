@@ -1,0 +1,5 @@
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\Temp-rechner\Temp-rechner\obj\x86\Debug\ResolveAssemblyReference.cache
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\Temp-rechner\Temp-rechner\bin\Debug\Temp-rechner.exe
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\Temp-rechner\Temp-rechner\bin\Debug\Temp-rechner.pdb
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\Temp-rechner\Temp-rechner\obj\x86\Debug\Temp-rechner.exe
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\Temp-rechner\Temp-rechner\obj\x86\Debug\Temp-rechner.pdb

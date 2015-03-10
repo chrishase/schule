@@ -1,0 +1,5 @@
+C:\Users\Lehrer\SCHULE\VisualStudio08\OOP-Konto\Konto-einfach\Konto-einfach\bin\x64\Debug\Konto-einfach.exe
+C:\Users\Lehrer\SCHULE\VisualStudio08\OOP-Konto\Konto-einfach\Konto-einfach\bin\x64\Debug\Konto-einfach.pdb
+C:\Users\Lehrer\SCHULE\VisualStudio08\OOP-Konto\Konto-einfach\Konto-einfach\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\Lehrer\SCHULE\VisualStudio08\OOP-Konto\Konto-einfach\Konto-einfach\obj\x64\Debug\Konto-einfach.exe
+C:\Users\Lehrer\SCHULE\VisualStudio08\OOP-Konto\Konto-einfach\Konto-einfach\obj\x64\Debug\Konto-einfach.pdb

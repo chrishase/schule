@@ -1,0 +1,68 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.14|$
+Arch|x86-msvc|$
+
+[PLUGINS]
+nppdf32.dll|$
+C:\Programme\Adobe\Reader 9.0\Reader\browser\nppdf32.dll|$
+0|$
+-1|1|13|$
+Adobe PDF Plug-In For Firefox and Netscape|$
+Adobe Acrobat|$
+7
+0|application/pdf|Acrobat Portable Document Format|pdf|$
+1|application/vnd.adobe.pdfxml|Adobe PDF in XML Format|pdfxml|$
+2|application/vnd.adobe.x-mars|Adobe PDF in XML Format|mars|$
+3|application/vnd.fdf|Acrobat Forms Data Format|fdf|$
+4|application/vnd.adobe.xfdf|XML Version of Acrobat Forms Data Format|xfdf|$
+5|application/vnd.adobe.xdp+xml| Acrobat XML Data Package|xdp|$
+6|application/vnd.adobe.xfd+xml|Adobe FormFlow99 Data File|xfd|$
+np32dsw.dll|$
+C:\WINDOWS\system32\Adobe\Director\np32dsw.dll|$
+0|$
+-1|1|13|$
+Adobe Shockwave for Director Netscape plug-in, version 11.0|$
+Shockwave for Director|$
+1
+0|application/x-director|Shockwave Movie|dir,dxr,dcr|$
+nppdf32.dll|$
+C:\Programme\Adobe\Reader 8.0\Reader\browser\nppdf32.dll|$
+0|$
+-1|1|13|$
+Adobe PDF Plug-In For Firefox and Netscape|$
+Adobe Acrobat|$
+6
+0|application/pdf|Acrobat Portable Document Format|pdf|$
+1|application/vnd.adobe.x-mars|Acrobat Portable XML Document Format|mars|$
+2|application/vnd.fdf|Acrobat Forms Data Format|fdf|$
+3|application/vnd.adobe.xfdf|XML Version of Acrobat Forms Data Format|xfdf|$
+4|application/vnd.adobe.xdp+xml| Acrobat XML Data Package|xdp|$
+5|application/vnd.adobe.xfd+xml|Adobe FormFlow99 Data File|xfd|$
+nprpjplug.dll|$
+C:\Programme\K-Lite Codec Pack\Real\browser\plugins\nprpjplug.dll|$
+6.0.12.69|$
+-1|1|13|$
+6.0.12.69|$
+RealPlayer Version Plugin|$
+1
+0|application/vnd.rn-realplayer-javascript|RealPlayer Version Plugin|rpj|$
+nppl3260.dll|$
+C:\Programme\K-Lite Codec Pack\Real\browser\plugins\nppl3260.dll|$
+6.0.12.69|$
+-1|1|13|$
+RealPlayer(tm) LiveConnect-Enabled Plug-In|$
+RealPlayer(tm) G2 LiveConnect-Enabled Plug-In (32-bit) |$
+1
+0|audio/x-pn-realaudio-plugin|RealPlayer(tm) as Plug-in|rpm|$
+npdeploytk.dll|$
+C:\Programme\Java\jre6\bin\new_plugin\npdeploytk.dll|$
+6.0.180.7|$
+-1|1|13|$
+NPRuntime Script Plug-in Library for Java(TM) Deploy|$
+Java Deployment Toolkit 6.0.180.7|$
+1
+0|application/java-deployment-toolkit|||$
+
+[INVALID]

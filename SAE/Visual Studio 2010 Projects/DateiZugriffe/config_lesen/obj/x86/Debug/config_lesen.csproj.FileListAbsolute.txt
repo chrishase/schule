@@ -1,0 +1,84 @@
+c:\users\lehrer\documents\visual studio 2010\Projects\config_lesen\config_lesen\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lehrer\documents\visual studio 2010\Projects\config_lesen\config_lesen\obj\x86\Debug\config_lesen.Form1.resources
+c:\users\lehrer\documents\visual studio 2010\Projects\config_lesen\config_lesen\obj\x86\Debug\config_lesen.Properties.Resources.resources
+c:\users\lehrer\documents\visual studio 2010\Projects\config_lesen\config_lesen\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\lehrer\documents\visual studio 2010\Projects\config_lesen\config_lesen\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\lehrer\documents\visual studio 2010\Projects\config_lesen\config_lesen\bin\Debug\config_lesen.exe
+c:\users\lehrer\documents\visual studio 2010\Projects\config_lesen\config_lesen\bin\Debug\config_lesen.pdb
+c:\users\lehrer\documents\visual studio 2010\Projects\config_lesen\config_lesen\obj\x86\Debug\config_lesen.exe
+c:\users\lehrer\documents\visual studio 2010\Projects\config_lesen\config_lesen\obj\x86\Debug\config_lesen.pdb
+C:\Users\Lehrer\Desktop\I-LP1\dateien\Felix\config_lesen2\config_lesen\obj\x86\Debug\config_lesen.exe
+C:\Users\Lehrer\Desktop\I-LP1\dateien\Felix\config_lesen2\config_lesen\obj\x86\Debug\config_lesen.pdb
+C:\Users\Lehrer\Desktop\I-LP1\dateien\Felix\config_lesen2\config_lesen\bin\Debug\config_lesen.exe
+C:\Users\Lehrer\Desktop\I-LP1\dateien\Felix\config_lesen2\config_lesen\bin\Debug\config_lesen.pdb
+C:\Users\Lehrer\Desktop\I-LP1\dateien\Felix\config_lesen2\config_lesen\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lehrer\Desktop\I-LP1\dateien\Felix\config_lesen2\config_lesen\obj\x86\Debug\config_lesen.Form1.resources
+C:\Users\Lehrer\Desktop\I-LP1\dateien\Felix\config_lesen2\config_lesen\obj\x86\Debug\config_lesen.Properties.Resources.resources
+C:\Users\Lehrer\Desktop\I-LP1\dateien\Felix\config_lesen2\config_lesen\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lehrer\Desktop\I-LP1\dateien\Felix\config_lesen2\config_lesen\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lehrer\Desktop\I-LP1\dateien\Felix\config_lesen3\config_lesen\obj\x86\Debug\config_lesen.exe
+C:\Users\Lehrer\Desktop\I-LP1\dateien\Felix\config_lesen3\config_lesen\obj\x86\Debug\config_lesen.pdb
+C:\Users\Lehrer\Desktop\I-LP1\dateien\Felix\config_lesen3\config_lesen\bin\Debug\config_lesen.exe
+C:\Users\Lehrer\Desktop\I-LP1\dateien\Felix\config_lesen3\config_lesen\bin\Debug\config_lesen.pdb
+C:\Users\Lehrer\Desktop\I-LP1\dateien\Felix\config_lesen3\config_lesen\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lehrer\Desktop\I-LP1\dateien\Felix\config_lesen3\config_lesen\obj\x86\Debug\config_lesen.Form1.resources
+C:\Users\Lehrer\Desktop\I-LP1\dateien\Felix\config_lesen3\config_lesen\obj\x86\Debug\config_lesen.Properties.Resources.resources
+C:\Users\Lehrer\Desktop\I-LP1\dateien\Felix\config_lesen3\config_lesen\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lehrer\Desktop\I-LP1\dateien\Felix\config_lesen3\config_lesen\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\config_lesen4\config_lesen\obj\x86\Debug\config_lesen.exe
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\config_lesen4\config_lesen\obj\x86\Debug\config_lesen.pdb
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\config_lesen4\config_lesen\bin\Debug\config_lesen.exe
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\config_lesen4\config_lesen\bin\Debug\config_lesen.pdb
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\config_lesen4\config_lesen\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\config_lesen4\config_lesen\obj\x86\Debug\config_lesen.Form1.resources
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\config_lesen4\config_lesen\obj\x86\Debug\config_lesen.Properties.Resources.resources
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\config_lesen4\config_lesen\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\config_lesen4\config_lesen\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\config_lesen5\config_lesen\obj\x86\Debug\config_lesen.exe
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\config_lesen5\config_lesen\obj\x86\Debug\config_lesen.pdb
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\config_lesen5\config_lesen\bin\Debug\config_lesen.exe
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\config_lesen5\config_lesen\bin\Debug\config_lesen.pdb
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\config_lesen5\config_lesen\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\config_lesen5\config_lesen\obj\x86\Debug\config_lesen.Form1.resources
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\config_lesen5\config_lesen\obj\x86\Debug\config_lesen.Properties.Resources.resources
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\config_lesen5\config_lesen\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\config_lesen5\config_lesen\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\final02\config_lesen\obj\x86\Debug\config_lesen.exe
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\final02\config_lesen\obj\x86\Debug\config_lesen.pdb
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\final02\config_lesen\bin\Debug\config_lesen.exe
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\final02\config_lesen\bin\Debug\config_lesen.pdb
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\final02\config_lesen\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\final02\config_lesen\obj\x86\Debug\config_lesen.Form1.resources
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\final02\config_lesen\obj\x86\Debug\config_lesen.Properties.Resources.resources
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\final02\config_lesen\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\final02\config_lesen\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\final02_Vorlage\config_lesen\obj\x86\Debug\config_lesen.exe
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\final02_Vorlage\config_lesen\obj\x86\Debug\config_lesen.pdb
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\final02_Vorlage\config_lesen\bin\Debug\config_lesen.exe
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\final02_Vorlage\config_lesen\bin\Debug\config_lesen.pdb
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\final02_Vorlage\config_lesen\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\final02_Vorlage\config_lesen\obj\x86\Debug\config_lesen.Form1.resources
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\final02_Vorlage\config_lesen\obj\x86\Debug\config_lesen.Properties.Resources.resources
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\final02_Vorlage\config_lesen\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\final02_Vorlage\config_lesen\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\#DateiZugriffe_Vorlage\config_lesen\obj\x86\Debug\config_lesen.exe
+C:\Users\Lehrer\Desktop\I-LP1\dateien\progs\#DateiZugriffe_Vorlage\config_lesen\obj\x86\Debug\config_lesen.pdb
+Z:\SAE - W1IK1\2014-04-11\File_IO\#DateiZugriffe_Vorlage\config_lesen\obj\x86\Debug\config_lesen.exe
+Z:\SAE - W1IK1\2014-04-11\File_IO\#DateiZugriffe_Vorlage\config_lesen\obj\x86\Debug\config_lesen.pdb
+Z:\SAE - W1IK1\2014-04-11\File_IO\#DateiZugriffe_Vorlage\config_lesen\bin\Debug\config_lesen.exe
+Z:\SAE - W1IK1\2014-04-11\File_IO\#DateiZugriffe_Vorlage\config_lesen\bin\Debug\config_lesen.pdb
+Z:\SAE - W1IK1\2014-04-11\File_IO\#DateiZugriffe_Vorlage\config_lesen\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\SAE - W1IK1\2014-04-11\File_IO\#DateiZugriffe_Vorlage\config_lesen\obj\x86\Debug\config_lesen.Form1.resources
+Z:\SAE - W1IK1\2014-04-11\File_IO\#DateiZugriffe_Vorlage\config_lesen\obj\x86\Debug\config_lesen.Properties.Resources.resources
+Z:\SAE - W1IK1\2014-04-11\File_IO\#DateiZugriffe_Vorlage\config_lesen\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\SAE - W1IK1\2014-04-11\File_IO\#DateiZugriffe_Vorlage\config_lesen\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\SAE - W1IK1\2014-04-28\#DateiZugriffe_Vorlage\config_lesen\obj\x86\Debug\config_lesen.exe
+Z:\SAE - W1IK1\2014-04-28\#DateiZugriffe_Vorlage\config_lesen\obj\x86\Debug\config_lesen.pdb
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\DateiZugriffe\config_lesen\obj\x86\Debug\config_lesen.exe
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\DateiZugriffe\config_lesen\obj\x86\Debug\config_lesen.pdb
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\DateiZugriffe\config_lesen\bin\Debug\config_lesen.exe
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\DateiZugriffe\config_lesen\bin\Debug\config_lesen.pdb
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\DateiZugriffe\config_lesen\obj\x86\Debug\config_lesen.csprojResolveAssemblyReference.cache
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\DateiZugriffe\config_lesen\obj\x86\Debug\config_lesen.Form1.resources
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\DateiZugriffe\config_lesen\obj\x86\Debug\config_lesen.Properties.Resources.resources
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\DateiZugriffe\config_lesen\obj\x86\Debug\config_lesen.csproj.GenerateResource.Cache

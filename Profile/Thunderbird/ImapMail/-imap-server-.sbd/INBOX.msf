@@ -1,0 +1,53 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (B8=columnStates)(B9=MRUTime)(BA=sortColumns)
+  (80=ns:msg:db:row:scope:msgs:all)(81=subject)(82=sender)(83=message-id)
+  (84=references)(85=recipients)(86=date)(87=size)(88=flags)(89=priority)
+  (8A=label)(8B=statusOfset)(8C=numLines)(8D=ccList)(8E=bccList)
+  (8F=msgThreadId)(90=threadId)(91=threadFlags)(92=threadNewestMsgDate)
+  (93=children)(94=unreadChildren)(95=threadSubject)(96=msgCharSet)
+  (97=ns:msg:db:table:kind:msgs)(98=ns:msg:db:table:kind:thread)
+  (99=ns:msg:db:table:kind:allthreads)
+  (9A=ns:msg:db:row:scope:threads:all)(9B=threadParent)(9C=threadRoot)
+  (9D=msgOffset)(9E=offlineMsgSize)
+  (9F=ns:msg:db:row:scope:dbfolderinfo:all)
+  (A0=ns:msg:db:table:kind:dbfolderinfo)(A1=numMsgs)(A2=numNewMsgs)
+  (A3=folderSize)(A4=expungedBytes)(A5=folderDate)(A6=highWaterKey)
+  (A7=mailboxName)(A8=UIDValidity)(A9=totPendingMsgs)
+  (AA=unreadPendingMsgs)(AB=expiredMark)(AC=version)
+  (AD=fixedBadRefThreading)(AE=onlineName)(AF=folderName)
+  (B0=charSetOverride)(B1=charSet)(B2=highestModSeq)
+  (B3=highestRecordedUID)(B4=sortType)(B5=sortOrder)(B6=viewFlags)
+  (B7=viewType)>
+
+<(80=1)(81=INBOX)(8A=3014)(85=1265893975)(86=12)(87=0)(88=)(89
+    ={"threadCol":{"visible":true},"attachmentCol":{"visible":true},"flaggedCo\
+l":{"visible":true},"subjectCol":{"visible":true},"unreadButtonColHeader":{"vi\
+sible":true},"senderCol":{"visible":true},"recipientCol":{"visible":false},"ju\
+nkStatusCol":{"visible":true},"dateCol":{"visible":true},"locationCol":{"visib\
+le":false}})>
+{1:^9F {(k^A0:c)(s=9u)} 
+  [1(^AC=1)(^AD=1)(^AE^81)(^88^8A)(^A7^81)(^B9^85)(^B4=12)(^B5=1)(^B6=0)
+    (^B7=0)(^BA=)(^B8^89)]}
+
+@$${D{@
+<(84=8003014)>[1:^9F(^88^84)]
+@$$}D}@
+
+@$${E{@
+[1:^9F(^88^8A)]
+@$$}E}@
+
+@$${F{@
+< <(a=c)> // (f=iso-8859-1)
+  (BB=retainBy)(BC=daysToKeepHdrs)(BD=numHdrsToKeep)(BE=daysToKeepBodies)
+  (BF=keepUnreadOnly)(C0=useServerDefaults)(C1=cleanupBodies)
+  (C2=applyToFlaggedMessages)(C3=LastPurgeTime)>
+<(8B=Thu Feb 11 14:17:44 2010)>[1:^9F(^C3^8B)]
+@$$}F}@
+
+@$${10{@
+@$$}10}@
+
+@$${11{@
+@$$}11}@

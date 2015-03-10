@@ -1,0 +1,5 @@
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\heizölrechner\heizölrechner\bin\Debug\heizölrechner.exe
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\heizölrechner\heizölrechner\bin\Debug\heizölrechner.pdb
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\heizölrechner\heizölrechner\obj\x86\Debug\ResolveAssemblyReference.cache
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\heizölrechner\heizölrechner\obj\x86\Debug\heizölrechner.exe
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\heizölrechner\heizölrechner\obj\x86\Debug\heizölrechner.pdb

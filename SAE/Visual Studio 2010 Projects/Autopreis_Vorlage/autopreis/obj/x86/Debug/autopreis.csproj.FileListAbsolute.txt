@@ -1,0 +1,43 @@
+c:\users\lehrer\documents\visual studio 2010\Projects\autopreis\autopreis\bin\Debug\autopreis.exe
+c:\users\lehrer\documents\visual studio 2010\Projects\autopreis\autopreis\bin\Debug\autopreis.pdb
+c:\users\lehrer\documents\visual studio 2010\Projects\autopreis\autopreis\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lehrer\documents\visual studio 2010\Projects\autopreis\autopreis\obj\x86\Debug\autopreis.Form1.resources
+c:\users\lehrer\documents\visual studio 2010\Projects\autopreis\autopreis\obj\x86\Debug\autopreis.Properties.Resources.resources
+c:\users\lehrer\documents\visual studio 2010\Projects\autopreis\autopreis\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\lehrer\documents\visual studio 2010\Projects\autopreis\autopreis\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\lehrer\documents\visual studio 2010\Projects\autopreis\autopreis\obj\x86\Debug\autopreis.exe
+c:\users\lehrer\documents\visual studio 2010\Projects\autopreis\autopreis\obj\x86\Debug\autopreis.pdb
+U:\REF\itschule\12_13\#info\e1fs4\32\autopreis\autopreis\obj\x86\Debug\autopreis.exe
+U:\REF\itschule\12_13\#info\e1fs4\32\autopreis\autopreis\obj\x86\Debug\autopreis.pdb
+U:\REF\itschule\12_13\#info\e1fs4\32\autopreis\autopreis\bin\Debug\autopreis.exe
+U:\REF\itschule\12_13\#info\e1fs4\32\autopreis\autopreis\bin\Debug\autopreis.pdb
+U:\REF\itschule\12_13\#info\e1fs4\32\autopreis\autopreis\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\REF\itschule\12_13\#info\e1fs4\32\autopreis\autopreis\obj\x86\Debug\autopreis.Form1.resources
+U:\REF\itschule\12_13\#info\e1fs4\32\autopreis\autopreis\obj\x86\Debug\autopreis.Properties.Resources.resources
+U:\REF\itschule\12_13\#info\e1fs4\32\autopreis\autopreis\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\REF\itschule\12_13\#info\e1fs4\32\autopreis\autopreis\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\_Material\Berufsschule\E1FS4 Hillebrand\13-06-18\autopreis\autopreis\obj\x86\Debug\autopreis.exe
+Z:\_Material\Berufsschule\E1FS4 Hillebrand\13-06-18\autopreis\autopreis\obj\x86\Debug\autopreis.pdb
+Z:\SAE - W1IK1\2014-02-21\Methoden\autopreis\autopreis\obj\x86\Debug\autopreis.exe
+Z:\SAE - W1IK1\2014-02-21\Methoden\autopreis\autopreis\obj\x86\Debug\autopreis.pdb
+Z:\SAE - W1IK1\2014-02-21\Methoden\autopreis\autopreis\bin\Debug\autopreis.exe
+Z:\SAE - W1IK1\2014-02-21\Methoden\autopreis\autopreis\bin\Debug\autopreis.pdb
+Z:\SAE - W1IK1\2014-02-21\Methoden\autopreis\autopreis\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\SAE - W1IK1\2014-02-21\Methoden\autopreis\autopreis\obj\x86\Debug\autopreis.Form1.resources
+Z:\SAE - W1IK1\2014-02-21\Methoden\autopreis\autopreis\obj\x86\Debug\autopreis.Properties.Resources.resources
+Z:\SAE - W1IK1\2014-02-21\Methoden\autopreis\autopreis\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\SAE - W1IK1\2014-02-21\Methoden\autopreis\autopreis\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\SAE - W1IK1\2014-02-21\Methoden\Autopreis_Vorlage\autopreis\obj\x86\Debug\autopreis.exe
+Z:\SAE - W1IK1\2014-02-21\Methoden\Autopreis_Vorlage\autopreis\obj\x86\Debug\autopreis.pdb
+Z:\SAE - W1IK1\2014-02-24\Autopreis_Vorlage\autopreis\obj\x86\Debug\autopreis.exe
+Z:\SAE - W1IK1\2014-02-24\Autopreis_Vorlage\autopreis\obj\x86\Debug\autopreis.pdb
+Z:\SAE - E1FS4\2014-05-20\Autopreis_Vorlage\autopreis\obj\x86\Debug\autopreis.exe
+Z:\SAE - E1FS4\2014-05-20\Autopreis_Vorlage\autopreis\obj\x86\Debug\autopreis.pdb
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\Autopreis_Vorlage\autopreis\obj\x86\Debug\autopreis.exe
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\Autopreis_Vorlage\autopreis\obj\x86\Debug\autopreis.pdb
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\Autopreis_Vorlage\autopreis\bin\Debug\autopreis.exe
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\Autopreis_Vorlage\autopreis\bin\Debug\autopreis.pdb
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\Autopreis_Vorlage\autopreis\obj\x86\Debug\autopreis.Form1.resources
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\Autopreis_Vorlage\autopreis\obj\x86\Debug\autopreis.Properties.Resources.resources
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\Autopreis_Vorlage\autopreis\obj\x86\Debug\autopreis.csprojResolveAssemblyReference.cache
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\Autopreis_Vorlage\autopreis\obj\x86\Debug\autopreis.csproj.GenerateResource.Cache

@@ -1,0 +1,1 @@
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\rechner\rechner\rechner\bin\Debug\rechner.exe.config

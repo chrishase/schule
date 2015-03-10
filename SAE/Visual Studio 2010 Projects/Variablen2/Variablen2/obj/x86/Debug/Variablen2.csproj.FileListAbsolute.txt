@@ -1,0 +1,5 @@
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\Variablen2\Variablen2\bin\Debug\Variablen2.exe
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\Variablen2\Variablen2\bin\Debug\Variablen2.pdb
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\Variablen2\Variablen2\obj\x86\Debug\ResolveAssemblyReference.cache
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\Variablen2\Variablen2\obj\x86\Debug\Variablen2.exe
+\\netapp.its-stuttgart.de\christian.hase\SAE\Visual Studio 2010 Projects\Variablen2\Variablen2\obj\x86\Debug\Variablen2.pdb

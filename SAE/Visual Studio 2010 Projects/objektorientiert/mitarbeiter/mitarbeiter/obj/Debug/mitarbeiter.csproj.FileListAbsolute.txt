@@ -1,0 +1,6 @@
+C:\Users\a001665\Documents\Schule\SAE\Visual Studio 2010 Projects\objektorientiert\mitarbeiter\mitarbeiter\bin\Debug\mitarbeiter.exe.config
+C:\Users\a001665\Documents\Schule\SAE\Visual Studio 2010 Projects\objektorientiert\mitarbeiter\mitarbeiter\obj\Debug\mitarbeiter.csprojResolveAssemblyReference.cache
+C:\Users\a001665\Documents\Schule\SAE\Visual Studio 2010 Projects\objektorientiert\mitarbeiter\mitarbeiter\bin\Debug\mitarbeiter.exe
+C:\Users\a001665\Documents\Schule\SAE\Visual Studio 2010 Projects\objektorientiert\mitarbeiter\mitarbeiter\bin\Debug\mitarbeiter.pdb
+C:\Users\a001665\Documents\Schule\SAE\Visual Studio 2010 Projects\objektorientiert\mitarbeiter\mitarbeiter\obj\Debug\mitarbeiter.exe
+C:\Users\a001665\Documents\Schule\SAE\Visual Studio 2010 Projects\objektorientiert\mitarbeiter\mitarbeiter\obj\Debug\mitarbeiter.pdb

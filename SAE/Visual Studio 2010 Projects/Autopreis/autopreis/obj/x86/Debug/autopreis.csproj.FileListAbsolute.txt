@@ -1,0 +1,53 @@
+c:\users\lehrer\documents\visual studio 2010\Projects\autopreis\autopreis\bin\Debug\autopreis.exe
+c:\users\lehrer\documents\visual studio 2010\Projects\autopreis\autopreis\bin\Debug\autopreis.pdb
+c:\users\lehrer\documents\visual studio 2010\Projects\autopreis\autopreis\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lehrer\documents\visual studio 2010\Projects\autopreis\autopreis\obj\x86\Debug\autopreis.Form1.resources
+c:\users\lehrer\documents\visual studio 2010\Projects\autopreis\autopreis\obj\x86\Debug\autopreis.Properties.Resources.resources
+c:\users\lehrer\documents\visual studio 2010\Projects\autopreis\autopreis\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\lehrer\documents\visual studio 2010\Projects\autopreis\autopreis\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\lehrer\documents\visual studio 2010\Projects\autopreis\autopreis\obj\x86\Debug\autopreis.exe
+c:\users\lehrer\documents\visual studio 2010\Projects\autopreis\autopreis\obj\x86\Debug\autopreis.pdb
+U:\REF\itschule\12_13\#info\e1fs4\32\autopreis\autopreis\obj\x86\Debug\autopreis.exe
+U:\REF\itschule\12_13\#info\e1fs4\32\autopreis\autopreis\obj\x86\Debug\autopreis.pdb
+U:\REF\itschule\12_13\#info\e1fs4\32\autopreis\autopreis\bin\Debug\autopreis.exe
+U:\REF\itschule\12_13\#info\e1fs4\32\autopreis\autopreis\bin\Debug\autopreis.pdb
+U:\REF\itschule\12_13\#info\e1fs4\32\autopreis\autopreis\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\REF\itschule\12_13\#info\e1fs4\32\autopreis\autopreis\obj\x86\Debug\autopreis.Form1.resources
+U:\REF\itschule\12_13\#info\e1fs4\32\autopreis\autopreis\obj\x86\Debug\autopreis.Properties.Resources.resources
+U:\REF\itschule\12_13\#info\e1fs4\32\autopreis\autopreis\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\REF\itschule\12_13\#info\e1fs4\32\autopreis\autopreis\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\_Material\Berufsschule\E1FS4 Hillebrand\13-06-18\autopreis\autopreis\obj\x86\Debug\autopreis.exe
+Z:\_Material\Berufsschule\E1FS4 Hillebrand\13-06-18\autopreis\autopreis\obj\x86\Debug\autopreis.pdb
+Z:\SAE - W1IK1\2014-02-21\Methoden\autopreis\autopreis\obj\x86\Debug\autopreis.exe
+Z:\SAE - W1IK1\2014-02-21\Methoden\autopreis\autopreis\obj\x86\Debug\autopreis.pdb
+Z:\SAE - W1IK1\2014-02-21\Methoden\autopreis\autopreis\bin\Debug\autopreis.exe
+Z:\SAE - W1IK1\2014-02-21\Methoden\autopreis\autopreis\bin\Debug\autopreis.pdb
+Z:\SAE - W1IK1\2014-02-21\Methoden\autopreis\autopreis\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\SAE - W1IK1\2014-02-21\Methoden\autopreis\autopreis\obj\x86\Debug\autopreis.Form1.resources
+Z:\SAE - W1IK1\2014-02-21\Methoden\autopreis\autopreis\obj\x86\Debug\autopreis.Properties.Resources.resources
+Z:\SAE - W1IK1\2014-02-21\Methoden\autopreis\autopreis\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\SAE - W1IK1\2014-02-21\Methoden\autopreis\autopreis\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\SAE - W1IK1\2014-02-21\Methoden\Autopreis_Vorlage\autopreis\obj\x86\Debug\autopreis.exe
+Z:\SAE - W1IK1\2014-02-21\Methoden\Autopreis_Vorlage\autopreis\obj\x86\Debug\autopreis.pdb
+Z:\SAE - W1IK1\2014-02-24\Autopreis_Vorlage\autopreis\obj\x86\Debug\autopreis.exe
+Z:\SAE - W1IK1\2014-02-24\Autopreis_Vorlage\autopreis\obj\x86\Debug\autopreis.pdb
+C:\Users\Lehrer\Desktop\Autopreis_Vorlage\autopreis\obj\x86\Debug\autopreis.exe
+C:\Users\Lehrer\Desktop\Autopreis_Vorlage\autopreis\obj\x86\Debug\autopreis.pdb
+C:\Users\Lehrer\Desktop\Autopreis_Vorlage\autopreis\bin\Debug\autopreis.exe
+C:\Users\Lehrer\Desktop\Autopreis_Vorlage\autopreis\bin\Debug\autopreis.pdb
+C:\Users\Lehrer\Desktop\Autopreis_Vorlage\autopreis\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lehrer\Desktop\Autopreis_Vorlage\autopreis\obj\x86\Debug\autopreis.Form1.resources
+C:\Users\Lehrer\Desktop\Autopreis_Vorlage\autopreis\obj\x86\Debug\autopreis.Properties.Resources.resources
+C:\Users\Lehrer\Desktop\Autopreis_Vorlage\autopreis\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lehrer\Desktop\Autopreis_Vorlage\autopreis\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\xSAE - E1FI3\2014-04-30\Autopreis_Vorlage_fertig\autopreis\obj\x86\Debug\autopreis.exe
+Z:\xSAE - E1FI3\2014-04-30\Autopreis_Vorlage_fertig\autopreis\obj\x86\Debug\autopreis.pdb
+Z:\SAE - E1FS4\2014-05-26\Autopreis\autopreis\obj\x86\Debug\autopreis.exe
+Z:\SAE - E1FS4\2014-05-26\Autopreis\autopreis\obj\x86\Debug\autopreis.pdb
+Z:\SAE - E1FS4\2014-05-26\Autopreis\autopreis\bin\Debug\autopreis.exe
+Z:\SAE - E1FS4\2014-05-26\Autopreis\autopreis\bin\Debug\autopreis.pdb
+Z:\SAE - E1FS4\2014-05-26\Autopreis\autopreis\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\SAE - E1FS4\2014-05-26\Autopreis\autopreis\obj\x86\Debug\autopreis.Form1.resources
+Z:\SAE - E1FS4\2014-05-26\Autopreis\autopreis\obj\x86\Debug\autopreis.Properties.Resources.resources
+Z:\SAE - E1FS4\2014-05-26\Autopreis\autopreis\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\SAE - E1FS4\2014-05-26\Autopreis\autopreis\obj\x86\Debug\GenerateResource.write.1.tlog
