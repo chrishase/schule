@@ -1,0 +1,9 @@
+C:\Users\Lehrer\Desktop\Konto-Beziehungen-G\Konto-Beziehungen-G\bin\Debug\Konto-Beziehungen-G.exe
+C:\Users\Lehrer\Desktop\Konto-Beziehungen-G\Konto-Beziehungen-G\bin\Debug\Konto-Beziehungen-G.pdb
+C:\Users\Lehrer\Desktop\Konto-Beziehungen-G\Konto-Beziehungen-G\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lehrer\Desktop\Konto-Beziehungen-G\Konto-Beziehungen-G\obj\x86\Debug\Konto_Beziehungen_G.BuchungsKing.resources
+C:\Users\Lehrer\Desktop\Konto-Beziehungen-G\Konto-Beziehungen-G\obj\x86\Debug\Konto_Beziehungen_G.Properties.Resources.resources
+C:\Users\Lehrer\Desktop\Konto-Beziehungen-G\Konto-Beziehungen-G\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lehrer\Desktop\Konto-Beziehungen-G\Konto-Beziehungen-G\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lehrer\Desktop\Konto-Beziehungen-G\Konto-Beziehungen-G\obj\x86\Debug\Konto-Beziehungen-G.exe
+C:\Users\Lehrer\Desktop\Konto-Beziehungen-G\Konto-Beziehungen-G\obj\x86\Debug\Konto-Beziehungen-G.pdb
